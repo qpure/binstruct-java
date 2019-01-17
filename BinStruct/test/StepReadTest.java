@@ -1,5 +1,5 @@
 
-import com.qiufeng.binstruct.*;
+import com.qiufeng.binstruct.step.*;
 public class StepReadTest extends TestContainer
 {
 	

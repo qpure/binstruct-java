@@ -1,7 +1,9 @@
 public class MainTest extends TestContainer
 {
 	Class<? extends TestContainer>[] testClasses={
-		StepReadTest.class
+		StepReadTest.class,
+		SwitchStepTest.class,
+		FlagStepTest.class
 	};
 	public static void main(String[] args){
 		new MainTest().run(args);
